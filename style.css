@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: rgb(225,225,225);
+    height: 70px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1700px;
+    margin: auto;
+}
+
+.pm{
+    margin: 0 auto;
+}
+
+.input{
+    width: 300px;
+}
+
+.bx1{
+    background-color: rgb(126,229,218);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    height: 80px;
+    float: left;
+    margin: 0 1px 0 0;
+}
+
+.box-1{
+    width: 1700px;
+    margin: 2px auto;
+
+}
+
+.bx2{
+    background-color: rgb(112,204,194);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 80px;
+    margin: 0 2px 0 1px;
+    float: left;
+}
+
+.bx3{
+    background-color:rgb(98,179,170);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    
+}
+
+.float{
+    float: left;
+}
+
+.orta{
+    text-align: center;
+    font-size: 13px;
+}
+
+
+
